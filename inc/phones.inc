@@ -1,7 +1,8 @@
 
 
 
-      <!-- Page Content -->
+
+<!-- Page Content -->
       <div class="off-canvas-content maincontent" data-off-canvas-content>
         <div class="page-head with-bg">
           <button type="button" class="button secondary hide-for-large" data-toggle="offCanvas"><i class="fa fa-fw fa-bars"></i></button>
